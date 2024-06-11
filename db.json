@@ -1,0 +1,20 @@
+{
+	"users": [
+		{
+			"username": "user1",
+			"password": "123456",
+			"token": "eyJ1c2VybmFtZSI6InVzZXJzIiwicGFzc3dvcmQiOiJwYXNzd29yZDEyMyIsImFsZyI6IkhTMjU2In0.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.S6QN_zMDVBzIqhM"
+		},
+		{
+			"id": "33d4",
+			"username": "user1",
+			"password": "123456"
+		},
+		{
+			"id": "b9db",
+			"username": "user1",
+			"password": "123456"
+		}
+	],
+	"books": []
+}
